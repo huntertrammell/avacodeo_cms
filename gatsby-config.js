@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ava{code}o`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hunter Trammell`,
+      summary: `a Taco Bell enthusiast with a passion for development.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Tech Tips, Tidbits & Tutorials`,
+    siteUrl: `https://avacodeo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `avacodeo`,
     },
   },
   plugins: [
